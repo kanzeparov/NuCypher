@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewCApplication</string>
+    <string name="title_activity_cypher">Cypher</string>
+    <string name="title_activity_cypher_info">CypherInfo</string>
+</resources>
