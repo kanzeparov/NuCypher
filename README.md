@@ -5,7 +5,7 @@
 ## Structure
 
 <ol type="1" style="font-size: x-large;">
-<li> [About](#about)
+<li> <a href="#about">About</a><br />
 <li> [Problems and solution](#problems-and-solution)
 <li> [Solution](#technical-solution)
 <ol type="a" style="font-size: large;">
