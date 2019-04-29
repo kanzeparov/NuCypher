@@ -6,21 +6,21 @@
 
 <ol type="1" style="font-size: x-large;">
 <li> <a href="#about">About</a><br />
-<li> [Problems and solution](#problems-and-solution)
-<li> [Solution](#technical-solution)
+<li> <a href="#problems-and-solution">Problems and solution</a><br />
+<li> <a href="#technical-solution">Technical solution</a><br />
 <ol type="a" style="font-size: large;">
-  <li> [User application](#user-application)
-  <li> [NuCypher encryption](#nucypher-encryption)
-  <li> [IPFS](#ipfs)
-  <li> [A hidden pixel](#a-hidden-pixel)
+  <li> <a href="#user-application">User application</a><br />[User application](#user-application)
+  <li> <a href="#nucypher-encryption">NuCypher encryption</a><br />[NuCypher encryption](#nucypher-encryption)
+  <li> <a href="#ipfs">IPFS</a><br />[IPFS](#ipfs)
+  <li> <a href="#a-hidden-pixel">A hidden pixel</a><br />[A hidden pixel](#a-hidden-pixel)
 </ol>
-<li> [Installation](#installation)
+<li> <a href="#installation">Installation</a><br />[Installation](#installation)
 <ol type="a" style="font-size: large;">
-  <li> [Web application](#web-application)
-  <li> [Mobile application](#android-application)
+  <li> <a href="#web-application">Web application</a><br />[Web application](#web-application)
+  <li> <a href="#android-application">Mobile application</a><br />[Mobile application](#android-application)
 </ol>
-<li> [Finally](#finally)
-<li> [Team](#team)
+<li> <a href="#finally">Finally</a><br />[Finally](#finally)
+<li> <a href="#team">Team</a><br />[Team](#team)
 </ol>
 
 ## About
