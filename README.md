@@ -9,18 +9,18 @@
 <li> <a href="#problems-and-solution">Problems and solution</a><br />
 <li> <a href="#technical-solution">Technical solution</a><br />
 <ol type="a" style="font-size: large;">
-  <li> <a href="#user-application">User application</a><br />[User application](#user-application)
-  <li> <a href="#nucypher-encryption">NuCypher encryption</a><br />[NuCypher encryption](#nucypher-encryption)
-  <li> <a href="#ipfs">IPFS</a><br />[IPFS](#ipfs)
-  <li> <a href="#a-hidden-pixel">A hidden pixel</a><br />[A hidden pixel](#a-hidden-pixel)
+  <li> <a href="#user-application">User application</a><br />
+  <li> <a href="#nucypher-encryption">NuCypher encryption</a><br />
+  <li> <a href="#ipfs">IPFS</a><br />
+  <li> <a href="#a-hidden-pixel">A hidden pixel</a><br />
 </ol>
-<li> <a href="#installation">Installation</a><br />[Installation](#installation)
+<li> <a href="#installation">Installation</a><br />
 <ol type="a" style="font-size: large;">
-  <li> <a href="#web-application">Web application</a><br />[Web application](#web-application)
-  <li> <a href="#android-application">Mobile application</a><br />[Mobile application](#android-application)
+  <li> <a href="#web-application">Web application</a><br />
+  <li> <a href="#android-application">Mobile application</a><br />
 </ol>
-<li> <a href="#finally">Finally</a><br />[Finally](#finally)
-<li> <a href="#team">Team</a><br />[Team](#team)
+<li> <a href="#finally">Finally</a><br />
+<li> <a href="#team">Team</a><br />
 </ol>
 
 ## About
