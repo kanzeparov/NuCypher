@@ -1,6 +1,6 @@
 ## CryptoBox
 
-[![N|Solid](images/Team.png)](https://startblock.online)
+[![N|Solid](images/Team (0-00-00-00).png)](https://startblock.online)
 
 ## Structure
 
@@ -207,4 +207,4 @@ We implemented all this within the framework of the Hackathon with the active in
 
 # Team
 
-[![N|Solid](images/Team.png)](https://startblock.online)
+[![N|Solid](images/Team (0-00-00-00).png)](https://startblock.online)
