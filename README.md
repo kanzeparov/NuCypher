@@ -59,15 +59,15 @@ The application is fully functional and you can try it in action right now at th
 
 We’ve created the infrastructure:
 
-* <a href="https://gitlab.com/AAPecherkin/cryptobox/tree/master/nucypher/nucypher/blockchain">A web application for user</a>;
+* <a href="https://github.com/kanzeparov/NuCypher/tree/master/nucypher/nucypher/blockchain">A web application for user</a>;
 
-* <a href="https://gitlab.com/AAPecherkin/cryptobox/tree/master/NewCApplication_Android">Mobile application for user</a>;
+* <a href="https://github.com/kanzeparov/NuCypher/tree/master/NewCApplication_Android">Mobile application for user</a>;
 
-* <a href="https://gitlab.com/AAPecherkin/cryptobox/tree/master/nucypher/examples/finnegans_wake_demo">NuCypher encryption and generation re-encryption keys for third-party applications</a>;
+* <a href="https://github.com/kanzeparov/NuCypher/tree/master/nucypher/examples/finnegans_wake_demo">NuCypher encryption and generation re-encryption keys for third-party applications</a>;
 
-* <a href="https://gitlab.com/AAPecherkin/cryptobox/tree/master/nucypher">IPFS is decentralized file system for save documents</a>;
+* <a href="https://github.com/kanzeparov/NuCypher/tree/master/nucypher">IPFS is decentralized file system for save documents</a>;
 
-* <a href="https://gitlab.com/AAPecherkin/cryptobox/tree/master/NewCApplication_Android/VCSecure">Creation a hidden pixel to mark your own documents and protect against online copying</a>;
+* <a href="https://github.com/kanzeparov/NuCypher/tree/master/NewCApplication_Android/VCSecure">Creation a hidden pixel to mark your own documents and protect against online copying</a>;
 
 In our application, we tried to take into account everything for the safe storage of documents and convenient use for file sharing between people. The application is a complete solution to the problem, plus the use of IPFS as a decentralized data repository and the creation of a secret pixel to identify files. The application is cross-platform.
 This application is fully functional and can be used right now. We believe that this is a great result during the hackathon.
@@ -94,7 +94,7 @@ Let's take a look at how the application works:
 
 You can watch a video demonstration of the product: 
 
-https://youtu.be/dhlp8EE5vw4
+https://youtu.be/0fELI3UzedY
 
 # NuCypher encryption
 
