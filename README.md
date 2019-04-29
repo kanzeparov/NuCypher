@@ -29,7 +29,7 @@ We are team **StartBlock** and we have indroduce our product, that we have imple
 
 We introduce the **CryptoBox** product - storing copies of documents in one protected place, with the ability to share them with the right person in a safe way using NuCypher technology.
 
-<a href="https://youtu.be/dokIcADnnC0">Video-presentation of the Cryptobox</a>
+<a href="https://youtu.be/0fELI3UzedY">Video-presentation of the Cryptobox</a>
 
 ## Problems and solution
 
@@ -48,7 +48,7 @@ Our product allows you to:
 
 Our solution is a product implemented as a web application, as well as a mobile application for Android, so that it can be used at any convenient time.
 
-<a href="https://youtu.be/dokIcADnnC0">Video-presentation of the Cryptobox</a>
+<a href="https://youtu.be/0fELI3UzedY">Video-presentation of the Cryptobox</a>
 
 
 The application is fully functional and you can try it in action right now at the link: 
@@ -188,7 +188,7 @@ More information: [A hidden pixel](#a-hidden-pixel)
 
 **CryptoBox** is a complete product for safe storage of your documents in one place and convenient use.
 
-<a href="https://youtu.be/dokIcADnnC0">Video-presentation of the Cryptobox</a>
+<a href="https://youtu.be/0fELI3UzedY">Video-presentation of the Cryptobox</a>
 
 The use of IPFS technology makes it possible to decentralize the data warehouse. A secret pixel will allow you to check the originality of the document and find the document on the network, which prevents copying and distribution of documents.
 
