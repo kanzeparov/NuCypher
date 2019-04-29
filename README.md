@@ -1,8 +1,8 @@
-# CryptoBox
+## CryptoBox
 
 [![N|Solid](images/Team.png)](https://startblock.online)
 
-# Structure
+## Structure
 
 <ol type="1" style="font-size: x-large;">
 <li> [About](#about)
@@ -23,7 +23,7 @@
 <li> [Team](#team)
 </ol>
 
-# About
+## About
 
 We are team **StartBlock** and we have indroduce our product, that we have implemented during the hackathon - **Cryptobox**.
 
@@ -31,7 +31,7 @@ We introduce the **CryptoBox** product - storing copies of documents in one prot
 
 <a href="https://youtu.be/dokIcADnnC0">Video-presentation of the Cryptobox</a>
 
-# Problems and solution
+## Problems and solution
 
 Today there are the following problems:
 - All the necessary documents are not at hand in the right situation, so we spend time in document search situations
