@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="js/jquery.min.js"></script>
+    <script src="js/index.js"></script>
+    <!--Import Google Icon Font-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <!--Import materialize.css-->
+    <link type="text/css" rel="stylesheet" href="static/css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="static/css/main.css"/>
+    <!--Let browser know website is optimized for mobile-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>CryptoBox</title>
+</head>
+<body>
+<nav>
+    <div class="nav-wrapper">
+        <img src="static/css/images/Logo.png" height="50" width="280">
+    </div>
+</nav>
+<div class="container">
+    <div class="row reg-panel-position">
+        <div class="col s12 m6">
+            <div class="card darken-1 reg-panel">
+                <div class="card-content white-text">
+                    <span class="card-title center">Welcome! </span>
+                </div>
+                <form action="main" method="post">
+                <div class="card-action">
+                    <div class="input-field">
+                        <input id="login" name="login" type="text" class="validate">
+                        <label for="login" id="login-label">Login</label>
+                    </div>
+                    <div class="input-field">
+                        <input id="password" type="text" class="validate ">
+                        <label for="password">Password</label>
+                    </div>
+                    <div class="col s6">
+                        <!--<a href="main.html" class="waves-effect waves-light btn blue-dark log-btn">Log In</a>-->
+                        <button class="waves-effect waves-light btn blue-dark log-btn" type="submit">Log In</button>
+                    </div>
+                    <div class="col s6">
+                        <a class="waves-effect waves-light btn blue-dark log-btn">Sign Up</a>
+                    </div>
+                </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
+
+
+<!--JavaScript at end of body for optimized loading-->
+<script type="text/javascript" src="static/js/materialize.min.js"></script>
+</body>
+</html>
